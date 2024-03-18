@@ -48,7 +48,7 @@ save your edits, but it will give a live update of changes so that it's easier
 to manipulate the DOM without refreshing the page. From there, you can copy and
 paste your working changes into the file.
 
-To remove the tags, use the CSS declaration `display:none;`. It will change the
+To remove the tags, use the CSS declaration `. It will change the
 elements' previous display property value from `display: block` to
 `display: none`, which will hide that graffiti.
 
